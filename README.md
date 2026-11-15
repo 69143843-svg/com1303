@@ -1,2 +1,2 @@
-# com1303
-Introduction to Web Design
+# week2 Introduction to Web Design
+## ให้นักศึกษา ออกแบบเว็บไซต์ แนะนำสถานที่ท่องเที่ยวในจังหวัดเชียงใหม่ สำหรับนักท่องเที่ยว
